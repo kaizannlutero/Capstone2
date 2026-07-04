@@ -1,0 +1,7 @@
+0 Rhizo Magni
+1 Rhizo Super Magni
+2 Alternaria
+3 Aspergillus
+4 Cladosporium
+5 Penicillium
+6 Stachybotrys
